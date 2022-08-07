@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-Rishitha
 - 👀 I’m interested in coding and Web development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I learned HTML,CSS and JS
 - 📫 How to reach me: mail id: mulpuririshitha17@gmail.com
 
 <!---
