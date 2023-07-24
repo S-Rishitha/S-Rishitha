@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-Rishitha
 - 👀 I’m interested in coding and Web development
-- 🌱 I learned HTML,CSS and JS
+- Proficient in Python, R, Java,Html,CSS and SQL. Working with tools like Pandas, Scikit-learn, and TensorFlow.
 - 📫 How to reach me: mail id: mulpuririshitha17@gmail.com
 
 <!---
